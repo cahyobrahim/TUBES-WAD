@@ -17,7 +17,7 @@
       body {
         text-align:center;
         font-family: 'Dongle', sans-serif;
-        overflow:hidden;
+        /* overflow:hidden; */
       }
       h2 {
         margin-top: 2em;
